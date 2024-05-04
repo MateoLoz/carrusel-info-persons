@@ -1,1 +1,1 @@
-add a folder img to use te icons!!!! 
+add a folder img to use the icons!!!! 
